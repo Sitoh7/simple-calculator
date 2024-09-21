@@ -1,0 +1,29 @@
+html{ background: linear-gradient(to bottom, blue, purple, red);
+   
+    height: 100vh;
+    ;}
+
+*{font-size: 30px;}
+body {
+    text-align: center;
+   width: 600px;
+    margin: auto;
+    background-color: rgba(0, 38, 255, 0.979);
+    margin-top: 200px;
+    border-radius: 10px;
+}
+
+button{font-size: 30px;
+        border-radius: 10px;
+        background-color: rgb(21, 21, 153);
+        transition: background-color 0.25s;
+        cursor: pointer;}
+
+
+
+button:hover{ background-color: rgb(14, 14, 78);}
+
+input {
+    border-radius: 10px;
+}
+
